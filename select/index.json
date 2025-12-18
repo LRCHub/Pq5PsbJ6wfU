@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "LENS FLARE",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-18T12:12:08.495321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim feat. BlazinG",
+      "has_synced": true,
+      "path": "select/01_LENS_FLARE_Kim_feat._BlazinG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim",
+      "has_synced": true,
+      "path": "select/02_LENS_FLARE_Kim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_LENS_FLARE_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/04_LENS_FLARE_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/05_LENS_FLARE_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim\u0000Blazing",
+      "has_synced": true,
+      "path": "select/06_LENS_FLARE_Kim\u0000Blazing.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LENS FLARE",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_LENS_FLARE_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LENS FLARE",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_LENS_FLARE_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LENS FLARE",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_LENS_FLARE_米津玄師.txt"
+    }
+  ]
+}
